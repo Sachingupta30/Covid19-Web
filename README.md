@@ -8,7 +8,7 @@ Some of the standout features of the project are
   1. Can see individual country updates.
   2. Can see total cases, Active cases, Recovered cases, New cases, Critical cases and Deaths people.
   
-#Technologies
+# Technologies
 
 1. BootStrap (Front-end)
 2. Django (Back-end)
